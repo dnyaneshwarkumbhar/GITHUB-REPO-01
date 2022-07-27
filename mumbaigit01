@@ -2,5 +2,5 @@
 Git is a version control system for tracking changes in computer files and is used to help coordinate work among several people on a project while tracking progress over time. In other words, it’s a tool that facilitates source code management in software development.
 
 git git gi
-
-t
+2. What do you understand by the term ‘Version Control System’?
+A version control system (VCS) records all the changes made to a file or set of data, so a specific version may be called later if needed
